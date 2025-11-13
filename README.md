@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux programming and website development
 - 🌱 I’m currently learning linux beyond the basics, python, HTML, and CSS
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: chrismd104@protonmail.com
+- 📫 How to reach me: mastodon.anchovy792@passmail.net
 
 <!---
 wxmanmd/wxmanmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
